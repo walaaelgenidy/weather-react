@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-react/static/css/main.182fb2d3.chunk.css",
+    "main.js": "/weather-react/static/js/main.860898e6.chunk.js",
+    "main.js.map": "/weather-react/static/js/main.860898e6.chunk.js.map",
+    "runtime-main.js": "/weather-react/static/js/runtime-main.a23709c0.js",
+    "runtime-main.js.map": "/weather-react/static/js/runtime-main.a23709c0.js.map",
+    "static/js/2.c831ed82.chunk.js": "/weather-react/static/js/2.c831ed82.chunk.js",
+    "static/js/2.c831ed82.chunk.js.map": "/weather-react/static/js/2.c831ed82.chunk.js.map",
+    "index.html": "/weather-react/index.html",
+    "precache-manifest.3a0ac9b18bd294373c835a32d3c55354.js": "/weather-react/precache-manifest.3a0ac9b18bd294373c835a32d3c55354.js",
+    "service-worker.js": "/weather-react/service-worker.js",
+    "static/css/main.182fb2d3.chunk.css.map": "/weather-react/static/css/main.182fb2d3.chunk.css.map",
+    "static/js/2.c831ed82.chunk.js.LICENSE.txt": "/weather-react/static/js/2.c831ed82.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-react/static/media/julien-di-majo-cwL_DmFQTMI-unsplash.f4803e07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23709c0.js",
+    "static/js/2.c831ed82.chunk.js",
+    "static/css/main.182fb2d3.chunk.css",
+    "static/js/main.860898e6.chunk.js"
+  ]
+}

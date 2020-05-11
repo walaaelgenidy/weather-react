@@ -1,3 +1,7 @@
+## you can just enter your country name and get your weather shown up 
+## check the warm-bg and cold-bg photos attached to the files 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
